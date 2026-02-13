@@ -1,26 +1,34 @@
-    <style>
-      body {
-        background-color: #121212; /* Ein dunkles Schwarz, angenehm für die Augen */
-        color: #E0E0E0;           /* Ein leicht gräuliches Weiß für den Text */
-        font-family: sans-serif;  /* Eine Standard-Schriftart, die gut lesbar ist */
-        padding: 20px;            /* Etwas Abstand zum Rand */
-      }
-      a {
-        color: #64B5F6;           /* Eine helle, klickbare Farbe für Links */
-      }
+   <style>
+  body {
+    background-color: #121212;
+    color: #E0E0E0;
+    font-family: sans-serif;
+    padding: 15px; /* Etwas weniger Padding gibt dem Text mehr Platz */
+    line-height: 1.5;
+    /* Aktiviert Silbentrennung für lange Wörter wie "Datenschutzerklärung" */
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+  
+  a {
+    color: #64B5F6;
+  }
       
-h1 {
-    font-size: 1.2rem; /* Standard für h1 ist ca. 2rem. 1.5rem macht es deutlich kleiner */
-    margin-bottom: 10px;
+  h1 {
+    font-size: 1.25rem; 
+    margin-bottom: 12px;
+    line-height: 1.2;
+    color: #ffffff;
+    /* Erzwingt Umbruch bei extrem langen Wörtern */
+    overflow-wrap: break-word;
   }
 
   h2 {
-    font-size: 1.0rem; /* Macht auch die Unterüberschriften kleiner */
+    font-size: 1.05rem;
+    margin-top: 20px;
+    color: #64B5F6;
   }
-
-
-      
-    </style>
+</style>
    
 <h1>Datenschutzerklärung</h1>
 <h2 id="m4158">Präambel</h2>
