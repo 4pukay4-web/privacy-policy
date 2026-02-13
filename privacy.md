@@ -10,12 +10,12 @@
       }
       
 h1 {
-    font-size: 1.5rem; /* Standard für h1 ist ca. 2rem. 1.5rem macht es deutlich kleiner */
+    font-size: 1.2rem; /* Standard für h1 ist ca. 2rem. 1.5rem macht es deutlich kleiner */
     margin-bottom: 10px;
   }
 
   h2 {
-    font-size: 1.2rem; /* Macht auch die Unterüberschriften kleiner */
+    font-size: 1.0rem; /* Macht auch die Unterüberschriften kleiner */
   }
 
 
