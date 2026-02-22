@@ -15,7 +15,7 @@
   }
       
   h1 {
-    font-size: 1.15rem; 
+    font-size: 1.05rem; 
     margin-bottom: 12px;
     line-height: 1.2;
     color: #ffffff;
