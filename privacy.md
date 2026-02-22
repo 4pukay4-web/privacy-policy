@@ -2,12 +2,12 @@
   body {
     background-color: #121212;
     color: #E0E0E0;
-    font-family: sans-serif;
-    padding: 15px; /* Etwas weniger Padding gibt dem Text mehr Platz */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    padding: 15px;
     line-height: 1.5;
-    /* Aktiviert Silbentrennung für lange Wörter wie "Datenschutzerklärung" */
-    hyphens: auto;
-    -webkit-hyphens: auto;
+    /* Verhindert horizontales Scrollen auf kleinsten Geräten */
+    max-width: 100vw;
+    overflow-x: hidden;
   }
   
   a {
@@ -15,18 +15,30 @@
   }
       
   h1 {
-    font-size: 1.05rem; 
+    /* Nutzt dynamische Größe: 6% der Bildschirmbreite, aber maximal 1.5rem und minimal 1.1rem */
+    font-size: clamp(1.1rem, 6vw, 1.5rem); 
     margin-bottom: 12px;
     line-height: 1.2;
     color: #ffffff;
-    /* Erzwingt Umbruch bei extrem langen Wörtern */
+    
+    /* Die magischen Zeilen für lange Wörter: */
+    word-wrap: break-word;
     overflow-wrap: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
   }
 
   h2 {
     font-size: 1.05rem;
     margin-top: 20px;
     color: #64B5F6;
+    word-wrap: break-word;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    font-size: 0.95rem;
   }
 </style>
    
