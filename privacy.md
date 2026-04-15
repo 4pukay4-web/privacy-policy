@@ -47,7 +47,32 @@
 <p>Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten.</p>
 <p>Die verwendeten Begriffe sind nicht geschlechtsspezifisch.</p>
 
-<p>Stand: 29. Dezember 2025</p><h2>Inhaltsübersicht</h2> <ul class="index"><li><a class="index-link" href="#m4158">Präambel</a></li><li><a class="index-link" href="#m3">Verantwortlicher</a></li><li><a class="index-link" href="#mOverview">Übersicht der Verarbeitungen</a></li><li><a class="index-link" href="#m2427">Maßgebliche Rechtsgrundlagen</a></li><li><a class="index-link" href="#m27">Sicherheitsmaßnahmen</a></li><li><a class="index-link" href="#m25">Übermittlung von personenbezogenen Daten</a></li><li><a class="index-link" href="#m24">Internationale Datentransfers</a></li><li><a class="index-link" href="#m12">Allgemeine Informationen zur Datenspeicherung und Löschung</a></li><li><a class="index-link" href="#m10">Rechte der betroffenen Personen</a></li><li><a class="index-link" href="#m225">Bereitstellung des Onlineangebots und Webhosting</a></li><li><a class="index-link" href="#m134">Einsatz von Cookies</a></li><li><a class="index-link" href="#m367">Registrierung, Anmeldung und Nutzerkonto</a></li><li><a class="index-link" href="#m432">Community Funktionen</a></li><li><a class="index-link" href="#m451">Single-Sign-On-Anmeldung</a></li><li><a class="index-link" href="#m182">Kontakt- und Anfrageverwaltung</a></li><li><a class="index-link" href="#m264">Onlinemarketing</a></li><li><a class="index-link" href="#m328">Plug-ins und eingebettete Funktionen sowie Inhalte</a></li><li><a class="index-link" href="#m15">Änderung und Aktualisierung</a></li><li><a class="index-link" href="#m42">Begriffsdefinitionen</a></li></ul><h2 id="m3">Verantwortlicher</h2><p>Yakup Gürbüz<br>Berlinerstr. 3<br>79761 Waldshut Tiengen</p>
+<p>Stand: 29. Dezember 2025</p> <h2>Inhaltsübersicht</h2> 
+<ul class="index">
+  <li><a class="index-link" href="#m4158">Präambel</a></li>
+  <li><a class="index-link" href="#m3">Verantwortlicher</a></li>
+  <li><a class="index-link" href="#mOverview">Übersicht der Verarbeitungen</a></li>
+  <li><a class="index-link" href="#m2427">Maßgebliche Rechtsgrundlagen</a></li>
+  <li><a class="index-link" href="#m27">Sicherheitsmaßnahmen</a></li>
+  <li><a class="index-link" href="#m25">Übermittlung von personenbezogenen Daten</a></li>
+  <li><a class="index-link" href="#m24">Internationale Datentransfers</a></li>
+  <li><a class="index-link" href="#m12">Allgemeine Informationen zur Datenspeicherung und Löschung</a></li>
+  <li><a class="index-link" href="#m10">Rechte der betroffenen Personen</a></li>
+  <li><a class="index-link" href="#m225">Bereitstellung des Onlineangebots und Webhosting</a></li>
+  <li><a class="index-link" href="#location-data">Verarbeitung von Standortdaten & Smart Plan</a></li>
+  <li><a class="index-link" href="#firebase">Firebase Dienste</a></li>
+  <li><a class="index-link" href="#partner-services">Partner-Angebote & Reservierungen</a></li>
+  <li><a class="index-link" href="#openweather">OpenWeather (Wetterdaten)</a></li>
+  <li><a class="index-link" href="#m134">Einsatz von Cookies</a></li>
+  <li><a class="index-link" href="#m367">Registrierung, Anmeldung und Nutzerkonto</a></li>
+  <li><a class="index-link" href="#m432">Community Funktionen</a></li>
+  <li><a class="index-link" href="#m451">Single-Sign-On-Anmeldung</a></li>
+  <li><a class="index-link" href="#m182">Kontakt- und Anfrageverwaltung</a></li>
+  <li><a class="index-link" href="#m264">Onlinemarketing & Werbung (AdMob)</a></li>
+  <li><a class="index-link" href="#m328">Plug-ins und eingebettete Funktionen sowie Inhalte</a></li>
+  <li><a class="index-link" href="#m15">Änderung und Aktualisierung</a></li>
+  <li><a class="index-link" href="#m42">Begriffsdefinitionen</a></li>
+</ul><h2 id="m3">Verantwortlicher</h2><p>Yakup Gürbüz<br>Berlinerstr. 3<br>79761 Waldshut Tiengen</p>
 <p>E-Mail-Adresse: <a href="mailto:wenow.app@hotmail.com">wenow.app@hotmail.com</a></p>
 
 <h2 id="mOverview">Übersicht der Verarbeitungen</h2><p>Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.</p><h3>Arten der verarbeiteten Daten</h3>
@@ -95,6 +120,14 @@
 <p><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO) sowie unser berechtigtes Interesse an einer sicheren und effizienten Bereitstellung der App (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).</p>
 
 <ul class="m-elements"><li><strong>Verarbeitete Datenarten:</strong> Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen). Protokolldaten (z. B. Logfiles betreffend Logins oder den Abruf von Daten oder Zugriffszeiten.).</li><li><strong>Betroffene Personen:</strong> Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).</li><li><strong>Zwecke der Verarbeitung:</strong> Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit; Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geräten (Computer, Server etc.)). Sicherheitsmaßnahmen.</li><li><strong>Aufbewahrung und Löschung:</strong> Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".</li><li class=""><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).</li></ul><p><strong>Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:</strong></p><ul class="m-elements"><li><strong>Bereitstellung Onlineangebot auf gemietetem Speicherplatz: </strong>Für die Bereitstellung unseres Onlineangebotes nutzen wir Speicherplatz, Rechenkapazität und Software, die wir von einem entsprechenden Serveranbieter (auch "Webhoster" genannt) mieten oder anderweitig beziehen; <span class=""><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).</span></li><li><strong>Erhebung von Zugriffsdaten und Logfiles: </strong>Der Zugriff auf unser Onlineangebot wird in Form von sogenannten "Server-Logfiles" protokolliert. Zu den Serverlogfiles können die Adresse und der Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Sicherheitszwecken eingesetzt werden, z. B. um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken), und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen; <span class=""><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). </span><strong>Löschung von Daten:</strong> Logfile-Informationen werden für die Dauer von maximal 30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.</li><li><strong>Content-Delivery-Network: </strong>Wir setzen ein "Content-Delivery-Network" (CDN) ein. Ein CDN ist ein Dienst, mit dessen Hilfe Inhalte eines Onlineangebotes, insbesondere große Mediendateien, wie Grafiken oder Programm-Skripte, mit Hilfe regional verteilter und über das Internet verbundener Server schneller und sicherer ausgeliefert werden können; <span class=""><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).</span></li></ul>
+<h2 id="partner-services">Partner-Angebote & Reservierungen</h2>
+<p>In unserer App bieten wir Funktionen an, mit denen Sie Angebote von Partnerunternehmen (z. B. Gastronomie, Freizeit) nutzen und reservieren können.</p>
+<ul>
+  <li><strong>Klick-Statistiken:</strong> Wenn Sie auf ein Partner-Profil klicken, die Webseite des Partners aufrufen oder die Telefonnummer wählen, erfassen wir diesen Klick anonymisiert. Zweck ist es, unseren Partnern eine Übersicht über das allgemeine Interesse an ihren Angeboten zu geben (Reichweitenmessung). Es werden dabei keine Klarnamen oder E-Mail-Adressen an den Partner übermittelt.</li>
+  <li><strong>Reservierungen & Check-In:</strong> Wenn Sie einen Deal reservieren, speichern wir den Status Ihrer Anfrage sowie einen generierten Check-In Code in unserer Datenbank (Firestore). Damit der Partner den Deal vor Ort verifizieren kann, hat dieser Zugriff auf die Liste der gültigen Check-In Codes für sein eigenes Angebot.</li>
+</ul>
+<p><strong>Rechtsgrundlagen:</strong> Erbringung vertraglicher Leistungen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO) sowie unser berechtigtes Interesse an der statistischen Auswertung für unsere Partner (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).</p>
+
 <h2 id="openweather">OpenWeather (Wetterdaten)</h2>
 <p>Für die Bereitstellung des „SMART PLAN“-Features nutzen wir die Dienste von <strong>OpenWeather (OpenWeather Ltd., 3rd Floor, 24 Old Queen Street, London, SW1H 9HP, United Kingdom)</strong>.</p>
 <ul>
