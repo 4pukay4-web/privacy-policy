@@ -105,7 +105,7 @@
 <h2 id="camera-data">Kamera-Zugriff</h2>
 <p>Unsere App benötigt Zugriff auf die Kamera Ihres Endgeräts.</p>
 <ul>
-  <li><strong>Zweck:</strong> Die Kamera wird verwendet, um [HIER EINSETZEN: z. B. Profilbilder aufzunehmen / QR-Codes zu scannen / Fotos für Treffen hochzuladen].</li>
+  <li><strong>Zweck:</strong> Die Kamera wird verwendet, um Profilbilder aufzunehmen / QR-Codes zu scannen / Fotos für Treffen hochzuladen.</li>
   <li><strong>Verarbeitung:</strong> Die Kameradaten werden nur in dem Moment verarbeitet, in dem Sie die Funktion aktiv nutzen. Es findet keine heimliche Aufnahme im Hintergrund statt.</li>
   <li><strong>Einwilligung:</strong> Der Zugriff erfolgt nur, wenn Sie der App die entsprechende Berechtigung im Betriebssystem erteilt haben. Sie können diese Berechtigung jederzeit in den Einstellungen Ihres Geräts widerrufen.</li>
 </ul>
